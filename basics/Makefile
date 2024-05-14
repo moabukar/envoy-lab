@@ -1,4 +1,4 @@
-PROJECT = com.iximiuz.projects.envoy-playground-basics
+PROJECT = com.moabukar.projects.envoy-lab-basics
 EXPOSE_SERVICE_A = 8080
 EXPOSE_PROMETHEUS = 9090
 SERVICE_B_ERROR_RATE = 20

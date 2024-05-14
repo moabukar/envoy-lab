@@ -1,4 +1,4 @@
-module github.com/iximiuz/envoy-playground/basics/service-b
+module github.com/moabukar/envoy-lab/basics/service-b
 
 go 1.15
 
